@@ -1,9 +1,9 @@
 # Coffee Shop Menu API
 
-RESTful API that connects to a simple database on AWS Elastic Beanstalk.
+REST API that connects to a coffee shop menu (simple database) hosted on AWS Elastic Beanstalk.
 
 ## Prerequisites
-Non-built in modules used: sqlite3, logging
+Non-built in modules required: sqlite3, logging
 
 ## Usage
 
@@ -23,7 +23,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 I wanted to learn how to create an API and work with a database. This was my second coding project. I learned the following:
 
-- Creating a RESTful API
+- Creating a REST API
+- Using the Flask framework to create an application
 - Using sqlite3 to create, manage, and edit a database
 - Working in a virtual enviroment (virtualenv)
 - Using AWS Elastic Beanstalk
